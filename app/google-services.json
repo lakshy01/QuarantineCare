@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "163637289995",
+    "firebase_url": "https://quarantineclone.firebaseio.com",
+    "project_id": "quarantineclone",
+    "storage_bucket": "quarantineclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163637289995:android:5bc29927ee30c0a580930e",
+        "android_client_info": {
+          "package_name": "com.example.quarantineclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163637289995-uea1o29ce6s7sqeksv09anc2eiosfr9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC59uQ4jnPz-NSIR5F9aOfVknLA9RKMzWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163637289995-uea1o29ce6s7sqeksv09anc2eiosfr9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
